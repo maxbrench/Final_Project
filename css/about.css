@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+header.masthead {
+  padding-top: 10.5rem;
+  padding-bottom: 6rem;
+  text-align: center;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.6); /* Black see-through */
+  background-image: url("../assets/img/Alpinebackground.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+
+.btn-primary {
+  color: #FF8A33; /* changed text color inside button */
+  background-color: #FFFFFF; /* Changed color to white background */
+  border-color: #FF8A33;
+}

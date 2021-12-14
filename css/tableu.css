@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+.nav-link {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: #D82525 !importanat;
+  text-decoration: none;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link {
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 0.95rem;
+  color: black;
+  letter-spacing: 0.0625em;
+}
+
+.tableauPlaceholder {
+	margin-top: 100px;
+	margin-left: 20px;
+	margin-right: 20px;
+	background-color: grey;
+
+}
+
+.p {
+	color: white;
+}
